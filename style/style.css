@@ -91,9 +91,9 @@
 
   .center {
     margin: auto;
-    width: 60%;
-    border: transparent;
-    padding: 10px;
+    width: 80%;
+    border: blue;
+    padding: 30px;
   }
 
   .posts {
@@ -105,4 +105,3 @@
   .posts:hover {
     opacity: 50%;
   }
-
