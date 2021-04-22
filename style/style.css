@@ -50,6 +50,18 @@
     white-space: nowrap;
 }
 
+h1 {
+  font-family: 'Work Sans';
+  position: relative;
+  left: 2%;
+}
+
+p {
+  font-family: 'Work Sans';
+  position: relative;
+  left: 2%;
+}
+
   /* post links */
 
   .row {
@@ -104,9 +116,11 @@
 
   .center {
     margin: auto;
-    width: 80%;
+    width: 95%;
     border: blue;
     padding: 30px;
+    position: relative;
+    left: 10%;
   }
 
   .posts {
@@ -117,4 +131,9 @@
 
   .posts:hover {
     opacity: 50%;
+  }
+
+  .about {
+    position: relative;
+    left: 12%;
   }
